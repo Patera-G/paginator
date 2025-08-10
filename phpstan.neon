@@ -1,0 +1,7 @@
+includes:
+  - vendor/phpstan/phpstan/conf/bleedingEdge.neon  # volitelné, pokud chceš nejnovější funkce
+
+parameters:
+  level: 5
+  paths:
+    - src
