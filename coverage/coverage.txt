@@ -1,0 +1,14 @@
+
+
+[1;37;40mCode Coverage Report:   [0m
+[1;37;40m  2025-08-10 17:40:57   [0m
+[1;37;40m                        [0m
+[1;37;40m Summary:               [0m
+[37;41m  Classes:  0.00% (0/2) [0m
+[37;41m  Methods:  0.00% (0/7) [0m
+[37;41m  Lines:    0.00% (0/26)[0m
+
+App\Paginator
+  [37;41mMethods:   0.00% ( 0/ 5)[0m   [37;41mLines:   0.00% (  0/ 14)[0m
+App\RequestHelper
+  [37;41mMethods:   0.00% ( 0/ 2)[0m   [37;41mLines:   0.00% (  0/ 12)[0m
